@@ -1,0 +1,8 @@
+E:\WangBowen0227App\W1HW2App\bin\Debug\W1HW2App.exe.config
+E:\WangBowen0227App\W1HW2App\bin\Debug\W1HW2App.exe
+E:\WangBowen0227App\W1HW2App\bin\Debug\W1HW2App.pdb
+E:\WangBowen0227App\W1HW2App\obj\Debug\W1HW2App.csproj.AssemblyReference.cache
+E:\WangBowen0227App\W1HW2App\obj\Debug\W1HW2App.csproj.SuggestedBindingRedirects.cache
+E:\WangBowen0227App\W1HW2App\obj\Debug\W1HW2App.csproj.CoreCompileInputs.cache
+E:\WangBowen0227App\W1HW2App\obj\Debug\W1HW2App.exe
+E:\WangBowen0227App\W1HW2App\obj\Debug\W1HW2App.pdb
